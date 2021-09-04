@@ -11,7 +11,11 @@ int main()
 
     // variable width now has value 7
 
-    std::cout << "The width is " << width; // ah ha
+    std::cout << "The width is " << width << std::endl; // ah ha
+
+    int height{ 9 }; //initalizes a new heigh variable and assigns value 9 using direct list assignment
+
+    std::cout << "The height is " << height;
 
     return 0;
 }
