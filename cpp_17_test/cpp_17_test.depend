@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1630698857 source:/home/craig/code/cplusplus/cpp_17_test/main.cpp
-	<array>
-	<iostream>
-	<string_view>
-	<tuple>
-	<type_traits>
-
